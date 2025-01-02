@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+langchain-huggingface  # Replace with the actual library name
+
+# Deploy your app to your chosen platform (Heroku, Netlify, etc.)
+# The platform may automatically install dependencies based on requirements.txt
+
+# If not, install dependencies directly on the deployment server:
+pip install -r requirements.txt
