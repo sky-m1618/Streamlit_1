@@ -1,5 +1,5 @@
 # requirements.txt
-streamlit
+#streamlit
 langchain-huggingface  # Replace with the actual library name
 
 # Deploy your app to your chosen platform (Heroku, Netlify, etc.)
